@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "../src/assets/Asset/Rectangle 2.png",
+        "course_name": "Introduction to Computer Science",
+        "course_detail": "An introductory course covering basic concepts of computer science including algorithms, data structures, and programming fundamentals.",
+        "Price": 49.99,
+        "Credit": 5
+    },
+    {
+        "id": 2,
+        "image": "../src/assets/Asset/Rectangle 2-1.png",
+        "course_name": "Data Structures and Algorithms",
+        "course_detail": "A comprehensive course focusing on advanced data structures and algorithms commonly used in software development.",
+        "Price": 69.99,
+        "Credit": 7
+    },
+    {
+        "id": 3,
+        "image": "../src/assets/Asset/Rectangle 2-2.png",
+        "course_name": "Web Development Fundamentals",
+        "course_detail": "Learn the basics of web development including HTML, CSS, and JavaScript, and build your first websites.",
+        "Price": 59.99,
+        "Credit": 4
+    },
+    {
+        "id": 4,
+        "image": "../src/assets/Asset/Rectangle 2-3.png",
+        "course_name": "Database Management Systems",
+        "course_detail": "Explore the principles and practices of designing and managing databases, SQL, and relational database systems.",
+        "Price": 79.99,
+        "Credit": 8
+    },
+    {
+        "id": 5,
+        "image": "../src/assets/Asset/Rectangle 2-4.png",
+        "course_name": "Machine Learning Fundamentals",
+        "course_detail": "An introduction to machine learning concepts, algorithms, and applications, with hands-on exercises.",
+        "Price": 89.99,
+        "Credit": 10
+    },
+    {
+        "id": 6,
+        "image": "../src/assets/Asset/Rectangle 2-5.png",
+        "course_name": "Cybersecurity Essentials",
+        "course_detail": "Learn the fundamentals of cybersecurity, including network security, cryptography, and ethical hacking techniques.",
+        "Price": 79.99,
+        "Credit": 6
+    },
+    {
+        "id": 7,
+        "image": "../src/assets/Asset/Rectangle 2-6.png",
+        "course_name": "Software Engineering Principles",
+        "course_detail": "Understand the principles of software engineering, including software development methodologies, testing, and project management.",
+        "Price": 69.99,
+        "Credit": 3
+    },
+    {
+        "id": 8,
+        "image": "../src/assets/Asset/Rectangle 3.png",
+        "course_name": "Artificial Intelligence",
+        "course_detail": "Explore advanced topics in artificial intelligence, including neural networks, deep learning, and natural language processing.",
+        "Price": 99.99,
+        "Credit": 9
+    },
+    {
+        "id": 9,
+        "image": "../src/assets/Asset/Rectangle 3-1.png",
+        "course_name": "Cloud Computing Fundamentals",
+        "course_detail": "Learn about cloud computing concepts, platforms, and services, and how to deploy and manage applications in the cloud.",
+        "Price": 79.99,
+        "Credit": 2
+    }
+]
