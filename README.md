@@ -1,4 +1,4 @@
-## URL: course-rooster-react.surge.sh
+https://course-rooster-react.surge.sh
 
 # React + Vite
 
